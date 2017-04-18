@@ -1,0 +1,75 @@
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.exe
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.pdb
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.g.cs
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\App.g.cs
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.cache
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.lref
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.baml
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.g.resources
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.Properties.Resources.resources
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.exe
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.pdb
+D:\DevTemp\WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\Lessons\CBS_CS_WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.exe
+D:\Work\Lessons\CBS_CS_WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.pdb
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.exe
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.pdb
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.exe
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.pdb
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.g.cs
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\App.g.cs
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.cache
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.lref
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.baml
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.g.resources
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.Properties.Resources.resources
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Lessons\WPF\Lesson_005 (Dependency & Routed Event)\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.exe
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.pdb
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.exe
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.pdb
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.g.cs
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\App.g.cs
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.cache
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.lref
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.baml
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.g.resources
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.Properties.Resources.resources
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.exe
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.pdb
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.exe
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.pdb
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.g.cs
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\App.g.cs
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.cache
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.lref
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.baml
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.g.resources
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.Properties.Resources.resources
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.csproj.GenerateResource.Cache
+D:\Lessons\WPF\005 Dependency Properties & Routed Events\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.csprojResolveAssemblyReference.cache
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.exe
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\bin\Debug\WpfRoutedEventSample.pdb
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.csprojResolveAssemblyReference.cache
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\App.g.cs
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.cache
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample_MarkupCompile.lref
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\MainWindow.baml
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.g.resources
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.Properties.Resources.resources
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.csproj.GenerateResource.Cache
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.exe
+C:\Users\001\Source\Repos\WPFandXAMLprojects\002_WpfRoutedEventSample\WpfRoutedEventSample\obj\x86\Debug\WpfRoutedEventSample.pdb
